@@ -1,0 +1,40 @@
+:root{
+    margin-right: 0;
+    margin-left: 0;
+}
+html{
+    scroll-behavior:smooth;
+}
+.buttn {
+    background-color: white;
+    color: #3572EF;
+    transition: transform 0.3s;
+}
+
+.buttn:hover {
+    background-color: #3572EF;
+    color: white;
+    transform: translateY(-3px);
+}
+
+.login{
+    background-color: #FFDB00;
+    color: black;
+    transition: transform 0.3s;
+}
+.login:hover{
+    background-color: black;
+    color: #FFDB00;
+    transform: translateY(-3px);
+}
+
+.newscards{
+    margin-top: 1rem;
+}
+
+
+
+
+
+
+
